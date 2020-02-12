@@ -1,1 +1,7 @@
-# javascript_model
+# Javascript Model 
+
+# file
+- jquery-3.3.1.js
+- jquery-3.3.1.min.js
+
+
