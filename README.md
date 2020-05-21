@@ -6,3 +6,6 @@
 
 # src
 - deep link js application
+
+# js basis
+> src
